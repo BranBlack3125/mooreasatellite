@@ -8,9 +8,9 @@ To access the map, please click on the following link: https://branblack3125.git
 
 Below is a short series of images serving as examples of the satellite imagery, contours, and local land use scales highlighted by this Mapbox style:
 
-* Full island scale, emphasis on satellite imagery *
+*Full island scale, emphasis on satellite imagery
 <img src="img/satellite.png" alt="Drawing" style="text-align: left; width: 100px"/>
-* Intermediate scale, combined contours and satellite imagery *
+*Intermediate scale, combined contours and satellite imagery
 <img src="img/intermediate.png" alt="Drawing" style="text-align: center; width: 100px"/>
-* Fine scale, human land uses" *
+*Fine scale, human land uses"
 <img src="img/close.png" alt="Drawing" style="text-align: right; width: 100px"/>
