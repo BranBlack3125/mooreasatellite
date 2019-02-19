@@ -8,6 +8,6 @@ To access the map, please click on the following link: https://branblack3125.git
 
 Below is a short series of images serving as examples of the satellite imagery, contours, and local land use scales highlighted by this Mapbox style:
 
-<img src="img/satellite.png" alt="Drawing" style="text-align: left; width: 300px"/>
-<img src="img/intermediate.png" alt="Drawing" style="text-align: left; width: 300px"/>
-<img src="img/close.png" alt="Drawing" style="text-align: left; width: 300px"/>
+<img src="img/satellite.png" alt="Drawing" style="text-align: left; width: 100px"/>
+<img src="img/intermediate.png" alt="Drawing" style="text-align: left; width: 100px"/>
+<img src="img/close.png" alt="Drawing" style="text-align: left; width: 100px"/>
