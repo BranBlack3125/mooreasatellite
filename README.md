@@ -6,6 +6,8 @@ The purpose of the this sequence of satellite imagery, then contours, then landu
 
 To access the map, please click on the following link: https://branblack3125.github.io/mooreasatellite/
 
+
+
 Below is a short series of images serving as examples of the satellite imagery, contours, and local land use scales highlighted by this Mapbox style:
 
 
